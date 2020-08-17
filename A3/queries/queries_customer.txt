@@ -1,0 +1,9 @@
+insert into customer values ( 1 , "satya" , "nadella" , "microsoft" , "USA" , "Seattle" , "123456");
+insert into customer values ( 2 , "sundar" , "pichai" , "google" , "USA" , "SF" , "23456");
+insert into customer values ( 3 , "scott" , "farquhar" , "atlassian" , "australia" , "melbourne" , "423456");
+insert into customer values ( 5 , "naval" , "ravikant" , "angellist" , "USA" , "NYC" , "242345");
+insert into customer values ( 11 , "bill" , "gates" , "windows" , "USA" , "Washnigton" , "12");
+insert into customer values ( 12 , "larry" , "page" , "alphabet" , "USA" , "NYC" , "34");
+insert into customer values ( 13 , "sergey" , "brin" , "alphabet" , "Australia" , "Sydney" , "45");
+insert into customer values ( 14 , "larry" , "david" , "HBO" , "India" , "Pune" , "56");
+insert into customer values ( 15 , "richard" , "lewis" , "HBO" , "India" , "Pune" , "234125");
