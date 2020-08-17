@@ -1,0 +1,10 @@
+insert into publisher values(1009,"Penguin","USA",1956);
+insert into publisher values(2376,"Gita Press","Gorakhpur",1899);
+insert into publisher values(23112,"HarperCollins","Mumbai",1935);
+insert into publisher values(54311,"Penguin","Delhi",1956);
+insert into publisher values(52853,"Jaico","Mumbai",1987);
+insert into publisher values(21142,"Gutenberg","Berlin",2003);
+insert into publisher values(42883,"MIT","USA",1976);
+insert into publisher values(19982,"Wolfram Publishing","London",1876);
+insert into publisher values(22134,"Westland","Delhi",1987);
+insert into publisher values(12331,"Harikrishna Publication","Pune",1993);
