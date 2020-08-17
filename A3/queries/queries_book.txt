@@ -1,0 +1,10 @@
+insert into book values(1123,"Atomic Habits",450,21,1009,2004);
+insert into book values(2234,"Gita Rahasya",120,43,2376,1932);
+insert into book values(3345,"Playing it my way",150,253,23112,2016);
+insert into book values(4456,"Bonsai Manager",270,236,54311,2009);
+insert into book values(5567,"Computer Networks",399,431,52853,1987);
+insert into book values(6678,"Beyond Good and Evil",1000,893,21142,1893);
+insert into book values(7789,"Sef-driving cars",439,3253,42883,2018);
+insert into book values(8890,"Cellular Automata",1200,4354,19982,1983);
+insert into book values(9011,"The Emperor's New Mind",980,2309,22134,2010);
+insert into book values(1245,"Asami asami",150,8934,12331,1973);
