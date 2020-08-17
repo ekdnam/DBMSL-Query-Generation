@@ -1,0 +1,11 @@
+insert into author values(21,"James Clear","USA");
+insert into author values(43,"Lokmanya Tilak","India");
+insert into author values(253,"Sachin Tendulkar","India");
+insert into author values(236,"R. Gopalkrishnan","India");
+insert into author values(431,"A. Tanenbaum","USA");
+insert into author values(893,"F. Nietzsche","Deutschland");
+insert into author values(3253,"L. Fridman","Russia");
+insert into author values(4354,"S. Wolfram","United Kingdom");
+insert into author values(2309,"Sir R. Penrose","United Kingdom");
+insert into author values(8934,"P. L. Deshpande","India");
+insert into author values(7765,"V. V. Mandke","India");
